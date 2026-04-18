@@ -3,7 +3,7 @@
 **App Name:** Last Updated  
 **Effective Date:** 18 April 2026  
 
-These Terms & Conditions govern the use of the application “Last Updated” (“the App”) provided through Wix.
+These Terms & Conditions govern the use of the application “Last Updated” provided through Wix.
 
 ## 1. Description of Service  
 The App displays a “Last Updated” date by retrieving publicly available information from a website’s sitemap (`/sitemap.xml`). The information is processed and displayed automatically on the user’s website.
